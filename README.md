@@ -1,21 +1,21 @@
-# Sencha WebtestIt Data-driven testing sample
+# Sencha WebTestIt Data-driven testing sample
 
-This is an example of how testing a simple login scenario could be solved with [Sencha WebtestIt](https://www.sencha.com/products/webtestit/) and Java, using the Data driven testing strategy
+This is an example of how testing a simple login scenario could be solved with [Sencha WebTestIt](https://www.sencha.com/products/webtestit/) and Java, using the Data driven testing strategy
 
-## Sencha WebtestIt
+## Sencha WebTestIt
 
-Sencha WebtestIt is a lightweight IDE optimized for building UI web tests with Selenium, Unittest or Protractor. It supports developing tests in Java, Python and TypeScript and includes built-in best practices such as the creation of Page Objects, separating test code from the testing framework, creating modular and reusable tests, cross-browser testing, [and more](https://www.sencha.com/products/webtestit/).
+Sencha WebTestIt is a lightweight IDE optimized for building UI web tests with Selenium, Unittest or Protractor. It supports developing tests in Java, Python and TypeScript and includes built-in best practices such as the creation of Page Objects, separating test code from the testing framework, creating modular and reusable tests, cross-browser testing, [and more](https://www.sencha.com/products/webtestit/).
 
 ## Requirements
 
-* [Sencha WebtestIt](https://www.sencha.com/products/webtestit/)
+* [Sencha WebTestIt](https://www.sencha.com/products/webtestit/)
 * [Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-	* [How to setup JDK for Sencha WebtestIt](https://docs.sencha.com/webtestit/getting-started/how-to-setup-the-java-jdk-for-use-with-sencha-webtestit)
+	* [How to setup JDK for Sencha WebTestIt](https://docs.sencha.com/webtestit/getting-started/how-to-setup-the-java-jdk-for-use-with-sencha-webtestit)
 
 ## Instructions
 
 * Make sure JDK is installed
-* Open Sencha WebtestIt
+* Open Sencha WebTestIt
 * Click "Open sample project"
 * Choose "Java - Data-driven sample"
 * Choose a folder to clone into and confirm
